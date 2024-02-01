@@ -18,13 +18,7 @@ This project introduces a Memory Game, a classic game that challenges players to
 - **Adjustable Grid Size:** Players can choose to play on grids of various sizes.
 - **Memory Time:** Players have a second to memorize a pair of revealed cards before they are turned face down again if they don't match.
 - **Cheat Mode:** Pressing the 't' key reveals all cards and pauses the timer until pressed again to resume the game.
-
-## Development
-
-This program is written in C89, adhering strictly to the guidelines, without external borrowing except for the graphics library provided by the IUT. The project can be undertaken individually or in pairs and must be completed by Sunday, December 11, 2022, at 23:59.
-
-The software part should be developed in a dedicated repository on the department's Gitea server from the start. The report will be in the form of a PDF file attached to the source code.
-
+  
 ## Commands
 
 - `make & make build`: Compiles the project.
