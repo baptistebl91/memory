@@ -17,7 +17,7 @@ This project introduces a Memory Game, a classic game that challenges players to
 - **Timer:** The game tracks the elapsed time in seconds from the start of the game.
 - **Adjustable Grid Size:** Players can choose to play on grids of various sizes.
 - **Memory Time:** Players have a second to memorize a pair of revealed cards before they are turned face down again if they don't match.
-- **Cheat Mode:** Pressing the 't' key reveals all cards and pauses the timer until pressed again to resume the game.
+- **Cheat Mode:** Pressing the `t` key reveals all cards and pauses the timer until pressed again to resume the game.
   
 ## Commands
 
